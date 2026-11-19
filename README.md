@@ -1,6 +1,6 @@
 # Credit Risk Classification using CIBIL Data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Credit_Risk_Modeling-Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Profgit-01/Credit-Risk-Classification/blob/main/Credit_Risk_Modeling-Prediction.ipynb)
 
 A machine learning project that predicts credit risk for bank customers and classifies them into approval categories **P1 to P4**, using real-world Indian bank data combined with external CIBIL credit bureau data.
 
@@ -15,7 +15,7 @@ Banks need to decide quickly and consistently whether a customer is a safe candi
 - **Unseen dataset**: held-out data used to test the final model.
 - Around **65,000+ rows** across the internal, external and unseen datasets.
 
-> Note: the data is not included in this repository. *(Add a line here on where the data came from, or how to obtain it.)*
+
 
 ## Approach
 
@@ -50,8 +50,8 @@ Banks need to decide quickly and consistently whether a customer is a safe candi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/Profgit-01/Credit-Risk-Classification.git
+   cd Credit-Risk-Classification
    ```
 2. Install dependencies:
    ```bash
